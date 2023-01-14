@@ -26,7 +26,7 @@ if (mathSymbol === "/"){console.log(num1 / num2)}
 
 if (mathSymbol === "*"){console.log(num1 * num2)}
 
-if (mathSymbol === "*"){console.log(num1 * num1)}
+if (mathSymbol === "^"){console.log(num1 * num1)}
 	
 
 
